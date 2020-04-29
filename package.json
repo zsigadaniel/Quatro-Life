@@ -1,0 +1,16 @@
+{
+    "name": "websiteto",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d website21"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://zsigadaniel.github.io/Quatro-Life",
+    "dependencies": {
+        "gh-pages": "^2.2.0"
+    }
+}
